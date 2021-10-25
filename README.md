@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-# firebase Authentication with phone number.
+## firebase Authentication with phone number.
 
 ## Getting Started
 
